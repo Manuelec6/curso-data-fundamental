@@ -19,3 +19,15 @@ contiene diferentes tipos de bucles que sirven para no tener que repetir uno a u
 capia de m4 - Pandas-
 Panda es una biblioteca de trabajo con datos en Python que proporciona una interfaz de línea de comandos para trabajar.
 
+ 4 - EDA with Data Visualization.ipynb
+ En el dia de hoy aprendimos a hacer graficas para medir datos y compararlos
+
+  09 - Folium
+ Folium es una potente libería de Python que permite crear diferentes tipos de mapas utilizando la librería de javascrip, con la que 
+ trabajemos en diferentes tipos de mapas con diferentes cordenadas
+
+10 - Pandas.ipynb
+trabajemos con diferentes tipos de valores a como sumarlos ,quitar los que sean nulos,valor o entrada específico de un objeto DataFrame usando loc etc.
+
+ 
+
