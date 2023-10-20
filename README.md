@@ -42,4 +42,8 @@ trabajemos con diferentes tipos de valores a como sumarlos ,quitar los que sean 
 
  ##M6_03_Programación_Funcional.ipynb
 
+ ## dia 8 
+ ## M6 - 07 - Transformaciones y Acciones sobre RDDs.ipynb
+ Creamos un contexo para crear RDDs
+
 
