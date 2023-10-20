@@ -42,4 +42,4 @@ trabajemos con diferentes tipos de valores a como sumarlos ,quitar los que sean 
 
  ##M6_03_Programación_Funcional.ipynb
 
- en el dia de hoy aprendimos a hacer funciones, y para crear funciones anonimas con el comando lambda
+
